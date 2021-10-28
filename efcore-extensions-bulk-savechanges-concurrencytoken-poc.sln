@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "efcore-extensions-bulk-savechanges-concurrencytoken-poc", "efcore-extensions-bulk-savechanges-concurrencytoken-poc.csproj", "{800A8CCC-BBAE-4492-B090-5A1AA3499C81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{800A8CCC-BBAE-4492-B090-5A1AA3499C81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{800A8CCC-BBAE-4492-B090-5A1AA3499C81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{800A8CCC-BBAE-4492-B090-5A1AA3499C81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{800A8CCC-BBAE-4492-B090-5A1AA3499C81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {413F0978-CF45-475B-A050-F2059CF5FE79}
+	EndGlobalSection
+EndGlobal
