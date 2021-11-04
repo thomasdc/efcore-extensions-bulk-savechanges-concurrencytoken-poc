@@ -7,8 +7,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL.NodaTime" Version="5.0.10" />
-    <PackageReference Include="Z.EntityFramework.Extensions.EFCore" Version="5.2.16" />
+    <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="5.0.10" />
+    <PackageReference Include="Z.EntityFramework.Extensions.EFCore" Version="5.2.17" />
   </ItemGroup>
 
 </Project>
